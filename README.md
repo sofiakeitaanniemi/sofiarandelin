@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sofiarandelin
 - 👀 I’m interested in DevOps and data analytics. I'm specialized in data engineering and bioinformatics. 
-- 🌱 I’m currently learning Kubernetes and Cloud computing.
+- 🌱 I’m currently learning Terraform and AWS cloud computing.
 - 💞️ I’m looking to collaborate on pipeline development and biological data analysis issues.
 - 📫 How to reach me: sofia.randelin@koti.fimnet.fi
 
